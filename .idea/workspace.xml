@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1jCoOa1Lt9P0eDHlUyYfrzb9l3g" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,13 +42,44 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1603403841026">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603403841026" />
     <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1603317436225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603317436225" />
+    <state width="1345" height="114" key="GridCell.Tab.0.bottom" timestamp="1603403088557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
+    <state width="1345" height="114" key="GridCell.Tab.0.center" timestamp="1603403088557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
+    <state width="1345" height="114" key="GridCell.Tab.0.left" timestamp="1603403088557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
+    <state width="1345" height="114" key="GridCell.Tab.0.right" timestamp="1603403088557">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1603317441704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603317441704" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/java/lang/Thread.class</url>
+          <line>219</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
