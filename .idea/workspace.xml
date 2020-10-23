@@ -26,7 +26,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MultiThreading">
+    <configuration name="MultiThreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiThreading" />
+      <module name="ThreadTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TheardClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TheardClass" />
       <module name="ThreadTask" />
@@ -36,36 +43,37 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultiThreading" />
         <item itemvalue="Application.TheardClass" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1603403841026">
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1603484451729">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603403841026" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603484451729" />
     <state x="389" y="105" key="FileChooserDialogImpl" timestamp="1603317436225">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603317436225" />
-    <state width="1345" height="114" key="GridCell.Tab.0.bottom" timestamp="1603403088557">
+    <state width="1345" height="129" key="GridCell.Tab.0.bottom" timestamp="1603487084947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
-    <state width="1345" height="114" key="GridCell.Tab.0.center" timestamp="1603403088557">
+    <state width="1345" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603487084947" />
+    <state width="1345" height="129" key="GridCell.Tab.0.center" timestamp="1603487084947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
-    <state width="1345" height="114" key="GridCell.Tab.0.left" timestamp="1603403088557">
+    <state width="1345" height="129" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603487084947" />
+    <state width="1345" height="129" key="GridCell.Tab.0.left" timestamp="1603487084947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
-    <state width="1345" height="114" key="GridCell.Tab.0.right" timestamp="1603403088557">
+    <state width="1345" height="129" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603487084947" />
+    <state width="1345" height="129" key="GridCell.Tab.0.right" timestamp="1603487084947">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603403088557" />
+    <state width="1345" height="129" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603487084947" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1603317441704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

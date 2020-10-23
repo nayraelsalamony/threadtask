@@ -65,7 +65,7 @@ public class TheardClass extends Thread{
 
     public static void main(String[] args) {
         TheardClass theardClass =new TheardClass();
-        for(int i=0;i<2;i++){
+        for(int i=0;i<10;i++){
             theardClass.insert(); }
         TheardClass thread =new TheardClass();
         thread.start();}
